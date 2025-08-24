@@ -51,6 +51,13 @@ The **Smart Waste Segregation Robot** is an autonomous robotic system designed t
 - Implement battery management for longer runtime.  
 
 ---
+Buggy 
+![Buggy](https://github.com/user-attachments/assets/0dc31aab-95e1-4e0f-9542-3edb193ea9a8)
 
-### License
-This project is open-source under the **MIT License**. Feel free to use, modify, and contribute!
+Robotic Arm 
+![Robotic_arm](https://github.com/user-attachments/assets/ab404975-9b70-4975-8dc5-3d0a4fe09fbe)
+
+Esp 32 Camera 
+![Camera](https://github.com/user-attachments/assets/215a5577-66f9-4c34-9b3a-48d8e499c398)
+
+

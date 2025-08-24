@@ -57,8 +57,7 @@ Buggy
 
 Robotic Arm 
 
-
-https://github.com/user-attachments/assets/a9f91b26-e446-42ef-88c2-8f272cc4e02f
+https://github.com/user-attachments/assets/03d5bc14-eca1-4dd4-98ec-4136023c33ee
 
 ![Robotic_arm](https://github.com/user-attachments/assets/ab404975-9b70-4975-8dc5-3d0a4fe09fbe)
 

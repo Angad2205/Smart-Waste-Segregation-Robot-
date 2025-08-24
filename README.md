@@ -54,7 +54,12 @@ The **Smart Waste Segregation Robot** is an autonomous robotic system designed t
 Buggy 
 ![Buggy](https://github.com/user-attachments/assets/0dc31aab-95e1-4e0f-9542-3edb193ea9a8)
 
+
 Robotic Arm 
+
+
+https://github.com/user-attachments/assets/a9f91b26-e446-42ef-88c2-8f272cc4e02f
+
 ![Robotic_arm](https://github.com/user-attachments/assets/ab404975-9b70-4975-8dc5-3d0a4fe09fbe)
 
 Esp 32 Camera 
